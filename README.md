@@ -9,3 +9,8 @@ A través de modelos de regresión, se buscará capturar la relación entre dich
 
 Las descripciones detalladas de cada variable empleada se encuentran en el documento PDF adjunto.
 
+- [Reporte en formato ipynb](./PP1.ipynb)
+- [Reporte en formato html](./PP1.html)
+- [Base de datos](./EncuestaNacional2019.csv)
+- [Diccionario](./Diccionario.pdf)
+
